@@ -62,3 +62,5 @@ Did a little more research and added a switch and some leds for power and progrm
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/G3uMJ4kUC5n21VcwynuADM4K8m3ol7fg/0dc790a0a64bf460990ab85a916247922026f6bf8452864e500f3aa8caa838dc.png)
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/G3uMJ4kUC5n21VcwynuADM4K8m3ol7fg/60c397884ad6ffe37a20c4c994f4bb66419c3d2020adf201f7426e53cd132029.png)
+
+TL;DR: Found all the parts for the board and laid them out. I really struggled with the Xiao RP2040 Plus: finding it and editing it to make sure it had all the pins. Between forgetting things and adding new stuff, the actual PCB had multiple revisions, but now I'm ready to route.
