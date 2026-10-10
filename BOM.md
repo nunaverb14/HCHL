@@ -20,7 +20,7 @@
 | [YLED0805R](https://www.lcsc.com/product-detail/C19171391.html) | Red 645nm LED Indication - Discrete 1.8V~2.4V 0805 | 100 | $0.01 | $1.00 | [YONGYUTAI](https://www.lcsc.com/product-detail/C19171391.html) |
 | [0805W8F2200T5E](https://www.lcsc.com/product-detail/C17557.html) | 220Ω ±1% 125mW 0805 Thick Film Resistor | 100 | $0.01 | $1.00 | [UNI-ROYAL](https://www.lcsc.com/product-detail/C17557.html) |
 | **Parts subtotal** | — | — | — | **$11.51** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$11.51** | — |
+| **Tax & shipping** | — | — | — | **$12.00** | — |
+| **Total** | — | — | — | **$23.51** | — |
 
-$18.49 left of the tier's funding.
+$6.49 left of the tier's funding.
