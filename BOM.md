@@ -19,10 +19,9 @@
 | [SK12D07VG4](https://www.lcsc.com/product-detail/C393937.html) | Slide Switch SPDT 500mA @ 50V Through Hole Rectangular Columnar | 20 | $0.03 | $0.60 | [SHOU HAN](https://www.lcsc.com/product-detail/C393937.html) |
 | [YLED0805R](https://www.lcsc.com/product-detail/C19171391.html) | Red 645nm LED Indication - Discrete 1.8V~2.4V 0805 | 100 | $0.01 | $1.00 | [YONGYUTAI](https://www.lcsc.com/product-detail/C19171391.html) |
 | [0805W8F2200T5E](https://www.lcsc.com/product-detail/C17557.html) | 220Ω ±1% 125mW 0805 Thick Film Resistor | 100 | $0.01 | $1.00 | [UNI-ROYAL](https://www.lcsc.com/product-detail/C17557.html) |
-| [1000 mAh Lipo Battery](https://www.amazon.com/gp/product/B0GHR4GJK8/ref=ox_sc_act_title_1?smid=A132D7PL1YID8X&psc=1) | Battery to make the console portable. | 1 | $7.99 | $7.99 | [Amazon](https://www.amazon.com/gp/product/B0GHR4GJK8/ref=ox_sc_act_title_1?smid=A132D7PL1YID8X&psc=1) |
 | [PCB](https://jlcpcb.com/) | The main PCB fo rthe console. | 1 | $1.97 | $1.97 | [JLCPCB](https://jlcpcb.com/) |
-| **Parts subtotal** | — | — | — | **$21.47** | — |
+| **Parts subtotal** | — | — | — | **$13.48** | — |
 | **Tax & shipping** | — | — | — | **$12.00** | — |
-| **Total** | — | — | — | **$33.47** | — |
+| **Total** | — | — | — | **$25.48** | — |
 
-**$3.47 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$4.52 left of the tier's funding.
