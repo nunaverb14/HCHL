@@ -19,14 +19,13 @@
 | [YLED0805R](https://www.lcsc.com/product-detail/C19171391.html) | Red 645nm LED Indication - Discrete 1.8V~2.4V 0805 | 100 | $0.01 | $1.00 | [YONGYUTAI](https://www.lcsc.com/product-detail/C19171391.html) |
 | [0805W8F2200T5E](https://www.lcsc.com/product-detail/C17557.html) | 220Ω ±1% 125mW 0805 Thick Film Resistor | 100 | $0.01 | $1.00 | [UNI-ROYAL](https://www.lcsc.com/product-detail/C17557.html) |
 | [PCB](https://jlcpcb.com/) | The main PCB for the console. | 1 | $1.97 | $1.97 | [JLCPCB](https://jlcpcb.com/) |
-| [HS96L03W2C03](https://www.lcsc.com/product-detail/C5248080.html) | 0.96 128x64 SSD1315 chip I2C LCD, OLED, Graphic | 1 | $2.31 | $2.31 | [HS](https://www.lcsc.com/product-detail/C5248080.html) |
 | [B2B-PH-K-S(LF)(SN)](https://www.lcsc.com/product-detail/C131337.html) | Connector Header 2 position 2mm Pitch 2A Through Hole -25℃~+85℃ | 20 | $0.04 | $0.80 | [JST](https://www.lcsc.com/product-detail/C131337.html) |
 | [SK12D07VG4](https://www.lcsc.com/product-detail/C393937.html) | Slide Switch SPDT 500mA @ 50V Through Hole Rectangular Columnar | 20 | $0.03 | $0.60 | [SHOU HAN](https://www.lcsc.com/product-detail/C393937.html) |
 | [YLED0805R](https://www.lcsc.com/product-detail/C19171391.html) | Red 645nm LED Indication - Discrete 1.8V~2.4V 0805 | 100 | $0.01 | $1.00 | [YONGYUTAI](https://www.lcsc.com/product-detail/C19171391.html) |
 | [0805W8F2200T5E](https://www.lcsc.com/product-detail/C17557.html) | 220Ω ±1% 125mW 0805 Thick Film Resistor | 100 | $0.01 | $1.00 | [UNI-ROYAL](https://www.lcsc.com/product-detail/C17557.html) |
 | [PM2.54-1X8PM-H85](https://www.lcsc.com/product-detail/C42431840.html) | 3A 8P Through Hole -40℃~+105℃ 8.5mm 1x8P 2.54mm Top 1 Square Hole Through Hole,P=2.54mm Headers, Receptacles, Female Sockets RoHS | 5 | $0.10 | $0.50 | [JXTCONN](https://www.lcsc.com/product-detail/C42431840.html) |
-| **Parts subtotal** | — | — | — | **$18.79** | — |
+| **Parts subtotal** | — | — | — | **$16.48** | — |
 | **Tax & shipping** | — | — | — | **$17.65** | — |
-| **Total** | — | — | — | **$36.44** | — |
+| **Total** | — | — | — | **$34.13** | — |
 
-**$6.44 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$4.13 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
