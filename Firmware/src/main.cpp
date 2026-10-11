@@ -65,34 +65,40 @@ void loop() {
   if (digitalRead(START) == LOW) {
     tone(BUZZER, 660, 200);
     digitalWrite(LED3, HIGH);
+    delay(200);
   }
 
   if (digitalRead(SELECT) == LOW) {
     tone(BUZZER, 660, 200);
     digitalWrite(LED2, HIGH);
+    delay(200);
   }
 
   if (digitalRead(UP) == LOW) {
     tone(BUZZER, 660, 200);
     digitalWrite(LED3, HIGH);
     digitalWrite(LED2, HIGH);
+    delay(200);
   }
 
   if (digitalRead(DOWN) == LOW) {
     tone(BUZZER, 660, 200);
     digitalWrite(LED1, HIGH);
+    delay(200);
   }
 
   if (digitalRead(LEFT) == LOW) {
     tone(BUZZER, 660, 200);
     digitalWrite(LED1, HIGH);
     digitalWrite(LED3, HIGH);
+    delay(200);
   }
 
   if (digitalRead(RIGHT) == LOW) {
     tone(BUZZER, 660, 200);
     digitalWrite(LED1, HIGH);
     digitalWrite(LED2, HIGH);
+    delay(200);
   }
 
   for(int i = 0; i < 3; i++){
