@@ -21,7 +21,7 @@
 | [PCB](https://jlcpcb.com/) | The main PCB for the console. | 1 | $1.97 | $1.97 | [JLCPCB](https://jlcpcb.com/) |
 | [PM2.54-1X8PM-H85](https://www.lcsc.com/product-detail/C42431840.html) | 3A 8P Through Hole -40℃~+105℃ 8.5mm 1x8P 2.54mm Top 1 Square Hole Through Hole,P=2.54mm Headers, Receptacles, Female Sockets RoHS | 5 | $0.10 | $0.50 | [JXTCONN](https://www.lcsc.com/product-detail/C42431840.html) |
 | **Parts subtotal** | — | — | — | **$13.08** | — |
-| **Tax & shipping** | — | — | — | **$17.65** | — |
-| **Total** | — | — | — | **$30.73** | — |
+| **Tax & shipping** | — | — | — | **$20.41** | — |
+| **Total** | — | — | — | **$33.49** | — |
 
-**$0.73 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$3.49 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
