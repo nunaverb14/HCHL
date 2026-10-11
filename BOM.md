@@ -21,7 +21,7 @@
 | [0805W8F2200T5E](https://www.lcsc.com/product-detail/C17557.html) | 220Ω ±1% 125mW 0805 Thick Film Resistor | 100 | $0.01 | $1.00 | [UNI-ROYAL](https://www.lcsc.com/product-detail/C17557.html) |
 | [PCB](https://jlcpcb.com/) | The main PCB for the console. | 1 | $1.97 | $1.97 | [JLCPCB](https://jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$13.48** | — |
-| **Tax & shipping** | — | — | — | **$12.10** | — |
-| **Total** | — | — | — | **$25.58** | — |
+| **Tax & shipping** | — | — | — | **$17.65** | — |
+| **Total** | — | — | — | **$31.13** | — |
 
-$4.42 left of the tier's funding.
+**$1.13 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
